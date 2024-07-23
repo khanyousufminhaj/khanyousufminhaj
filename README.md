@@ -61,4 +61,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanyousufminhaj&label=Profile%20views&color=0e75b6&style=flat" alt="khanyousufminhaj" /> </p>
 
 ###
+
+[![LeetCode Stats](https://leetcard.khanyousufminhaj/)](https://leetcode.com/u/khanyousufminhaj/)
+
+
+###
 [![An image of @imkhanyousuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imkhanyousuf)](https://holopin.io/@imkhanyousuf)
