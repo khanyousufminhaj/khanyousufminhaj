@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-[![LeetCode Stats](https://leetcard.khanyousufminhaj/)](https://leetcode.com/u/khanyousufminhaj/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/khanyousufminhaj?theme=dark&font=Convergence)
 
 
 ###
