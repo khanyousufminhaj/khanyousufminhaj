@@ -6,10 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <br clear="both">
 
-<div align="center">
-  <img height="700" src="https://i.ibb.co/yysjtdX/945aeca5-f5c0-49a8-811c-93b8f1f3fa9f.jpg"  />
-</div>
-
 ###
 
 <div align="center">
